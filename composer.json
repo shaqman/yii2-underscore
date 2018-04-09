@@ -23,6 +23,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "bower-asset/underscore": "1.8.*"
+        "bower-asset/underscore.string": "~3.3.0"
     },
     "autoload": {
         "psr-4": {
